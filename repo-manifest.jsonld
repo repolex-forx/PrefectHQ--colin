@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/colin/commit/827969f843a7c2f638df4049c2a85efec1309345",
       "git:hexsha": "827969f843a7c2f638df4049c2a85efec1309345",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T03:23:38.280338+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PrefectHQ/colin/commit/b86b6f2be6f0d7985d336e1e381504bea5f0cf14",
